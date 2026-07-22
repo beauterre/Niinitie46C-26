@@ -6,6 +6,12 @@
 
 ( created using: https://markdowntoword.io/tools/markdown-to-pdf )
 
+
+## ⚖️ Legal Framework
+This report is maintained in accordance with the **Finnish Law of Accommodation (481/95)**. 
+
+According to the law, the tenant is responsible for the care of the apartment. By documenting the pre-existing condition and defects at the start of the lease, this record serves as evidence to distinguish between **pre-existing defects** and **damage caused by the tenant** during the tenancy, ensuring a fair assessment of the security deposit upon move-out.
+
 **Move-in Date:** 21-07-2026
 **Tenant:** Jens Hjalmar Snoep
 
