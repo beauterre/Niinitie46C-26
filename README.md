@@ -75,10 +75,53 @@ This repository is a **historical archive**, not a maintenance request system. F
 ## 📸 Photo Evidence
 *All photos are timestamped and stored in the `/photos` directory of this repository.*
 
-1. **Fridge:** See `photos/fridge.jpg`
-2. **Windows:** See `photos/windows.jpg`
-3. **Bathroom:** See `photos/sink.jpg` and `photos/shelf.jpg`
+Since I don't know exactly what is in each photo, I have left the **Description** column as `[Add description]` for you to fill in. 
 
+To make the images **small thumbnails** that link to the **full-size image**, I used the HTML `<img>` tag with a set width. This is the only way to control image size in GitHub Markdown.
+
+I have also parsed the dates from your filenames (all are 2026-07-22).
+
+```markdown
+## 📸 Photos
+
+| Preview | Date | Filename | Description |
+| :--- | :--- | :--- | :--- |
+| <a href="photos/IMG20260722081834.jpg"><img src="photos/IMG20260722081834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081834.jpg` | [Add description] |
+| <a href="photos/IMG20260722081841.jpg"><img src="photos/IMG20260722081841.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081841.jpg` | [Add description] |
+| <a href="photos/IMG20260722081857.jpg"><img src="photos/IMG20260722081857.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081857.jpg` | [Add description] |
+| <a href="photos/IMG20260722081902.jpg"><img src="photos/IMG20260722081902.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081902.jpg` | [Add description] |
+| <a href="photos/IMG20260722081910.jpg"><img src="photos/IMG20260722081910.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081910.jpg` | [Add description] |
+| <a href="photos/IMG20260722081931.jpg"><img src="photos/IMG20260722081931.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081931.jpg` | [Add description] |
+| <a href="photos/IMG20260722081949.jpg"><img src="photos/IMG20260722081949.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081949.jpg` | [Add description] |
+| <a href="photos/IMG20260722081957.jpg"><img src="photos/IMG20260722081957.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081957.jpg` | [Add description] |
+| <a href="photos/IMG20260722082014.jpg"><img src="photos/IMG20260722082014.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082014.jpg` | [Add description] |
+| <a href="photos/IMG20260722082055.jpg"><img src="photos/IMG20260722082055.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082055.jpg` | [Add description] |
+| <a href="photos/IMG20260722082126.jpg"><img src="photos/IMG20260722082126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082126.jpg` | [Add description] |
+| <a href="photos/IMG20260722082131.jpg"><img src="photos/IMG20260722082131.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082131.jpg` | [Add description] |
+| <a href="photos/IMG20260722082143.jpg"><img src="photos/IMG20260722082143.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082143.jpg` | [Add description] |
+| <a href="photos/IMG20260722082153.jpg"><img src="photos/IMG20260722082153.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082153.jpg` | [Add description] |
+| <a href="photos/IMG20260722082155.jpg"><img src="photos/IMG20260722082155.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082155.jpg` | [Add description] |
+| <a href="photos/IMG20260722082215.jpg"><img src="photos/IMG20260722082215.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082215.jpg` | [Add description] |
+| <a href="photos/IMG20260722082224.jpg"><img src="photos/IMG20260722082224.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082224.jpg` | [Add description] |
+| <a href="photos/IMG20260722082229.jpg"><img src="photos/IMG20260722082229.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082229.jpg` | [Add description] |
+| <a href="photos/IMG20260722082241.jpg"><img src="photos/IMG20260722082241.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082241.jpg` | [Add description] |
+| <a href="photos/IMG20260722082247.jpg"><img src="photos/IMG20260722082247.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082247.jpg` | [Add description] |
+| <a href="photos/IMG20260722082257.jpg"><img src="photos/IMG20260722082257.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082257.jpg` | [Add description] |
+| <a href="photos/IMG20260722082306.jpg"><img src="photos/IMG20260722082306.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082306.jpg` | [Add description] |
+| <a href="photos/IMG20260722082314.jpg"><img src="photos/IMG20260722082314.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082314.jpg` | [Add description] |
+| <a href="photos/IMG20260722082320.jpg"><img src="photos/IMG20260722082320.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082320.jpg` | [Add description] |
+| <a href="photos/IMG20260722082324.jpg"><img src="photos/IMG20260722082324.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082324.jpg` | [Add description] |
+| <a href="photos/IMG20260722082340.jpg"><img src="photos/IMG20260722082340.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082340.jpg` | [Add description] |
+| <a href="photos/IMG20260722082350.jpg"><img src="photos/IMG20260722082350.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082350.jpg` | [Add description] |
+| <a href="photos/IMG20260722082352.jpg"><img src="photos/IMG20260722082352.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082352.jpg` | [Add description] |
+| <a href="photos/IMG20260722082403.jpg"><img src="photos/IMG20260722082403.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082403.jpg` | [Add description] |
+| <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` | [Add description] |
+| <a href="photos/IMG20260722082435.jpg"><img src="photos/IMG20260722082435.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082435.jpg` | [Add description] |
+| <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | [Add description] |
+| <a href="photos/IMG20260722082445.jpg"><img src="photos/IMG20260722082445.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082445.jpg` | [Add description] |
+| <a href="photos/IMG20260722082450.jpg"><img src="photos/IMG20260722082450.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082450.jpg` | [Add description] |
+| <a href="photos/IMG20260722082453.jpg"><img src="photos/IMG20260722082453.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082453.jpg` | [Add description] |
+```
 ---
 
 ## 📝 Additional Notes
