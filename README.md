@@ -110,9 +110,6 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` |  stains on closets bedroom  |
 | <a href="photos/IMG20260722082435.jpg"><img src="photos/IMG20260722082435.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082435.jpg` | broken corner kitchen |
 | <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | fuzzy, retake |
-| <a href="photos/IMG20260722082445.jpg"><img src="photos/IMG20260722082445.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082445.jpg` | [Add description] |
-| <a href="photos/IMG20260722082450.jpg"><img src="photos/IMG20260722082450.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082450.jpg` | [Add description] |
-| <a href="photos/IMG20260722082453.jpg"><img src="photos/IMG20260722082453.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082453.jpg` | [Add description] |
 
 ---
 
