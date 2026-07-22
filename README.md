@@ -95,16 +95,16 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722082155.jpg"><img src="photos/IMG20260722082155.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082155.jpg` | holes in bathroom tiles |
 | <a href="photos/IMG20260722082215.jpg"><img src="photos/IMG20260722082215.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082215.jpg` | screw bedroom wall |
 | <a href="photos/IMG20260722082224.jpg"><img src="photos/IMG20260722082224.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082224.jpg` | two screwholes bedroom wall |
-| <a href="photos/IMG20260722082229.jpg"><img src="photos/IMG20260722082229.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082229.jpg` | [Add description] |
-| <a href="photos/IMG20260722082241.jpg"><img src="photos/IMG20260722082241.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082241.jpg` | [Add description] |
-| <a href="photos/IMG20260722082247.jpg"><img src="photos/IMG20260722082247.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082247.jpg` | [Add description] |
-| <a href="photos/IMG20260722082257.jpg"><img src="photos/IMG20260722082257.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082257.jpg` | [Add description] |
-| <a href="photos/IMG20260722082306.jpg"><img src="photos/IMG20260722082306.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082306.jpg` | [Add description] |
-| <a href="photos/IMG20260722082314.jpg"><img src="photos/IMG20260722082314.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082314.jpg` | [Add description] |
-| <a href="photos/IMG20260722082320.jpg"><img src="photos/IMG20260722082320.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082320.jpg` | [Add description] |
-| <a href="photos/IMG20260722082324.jpg"><img src="photos/IMG20260722082324.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082324.jpg` | [Add description] |
-| <a href="photos/IMG20260722082340.jpg"><img src="photos/IMG20260722082340.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082340.jpg` | [Add description] |
-| <a href="photos/IMG20260722082350.jpg"><img src="photos/IMG20260722082350.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082350.jpg` | [Add description] |
+| <a href="photos/IMG20260722082229.jpg"><img src="photos/IMG20260722082229.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082229.jpg` | hook in ceiling bedroom |
+| <a href="photos/IMG20260722082241.jpg"><img src="photos/IMG20260722082241.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082241.jpg` | kitchen, sticker with hook|
+| <a href="photos/IMG20260722082247.jpg"><img src="photos/IMG20260722082247.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082247.jpg` | floor living room |
+| <a href="photos/IMG20260722082257.jpg"><img src="photos/IMG20260722082257.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082257.jpg` | window living room |
+| <a href="photos/IMG20260722082306.jpg"><img src="photos/IMG20260722082306.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082306.jpg` | ceiling living room |
+| <a href="photos/IMG20260722082314.jpg"><img src="photos/IMG20260722082314.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082314.jpg` | stains on floor living room, sure some will come off by cleaning, but not all |
+| <a href="photos/IMG20260722082320.jpg"><img src="photos/IMG20260722082320.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082320.jpg` | stain on floor living room |
+| <a href="photos/IMG20260722082324.jpg"><img src="photos/IMG20260722082324.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082324.jpg` | stain on floor living room |
+| <a href="photos/IMG20260722082340.jpg"><img src="photos/IMG20260722082340.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082340.jpg` | drag trails floor hallway |
+| <a href="photos/IMG20260722082350.jpg"><img src="photos/IMG20260722082350.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082350.jpg` | fuzzy, will retake |
 | <a href="photos/IMG20260722082352.jpg"><img src="photos/IMG20260722082352.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082352.jpg` | [Add description] |
 | <a href="photos/IMG20260722082403.jpg"><img src="photos/IMG20260722082403.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082403.jpg` | [Add description] |
 | <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` | [Add description] |
