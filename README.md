@@ -151,8 +151,8 @@ This repository is a **historical archive**, not a maintenance request system. F
 ---
 
 ## 📝 Additional Notes
-* [Example: Any scratches on the floor or marks on the walls]
-* [Example: Any issues with the locking mechanism of the front door]
+* Scratches on the floor or marks on the walls are everywhere, I cannot photograph them all, the photos are also a general idea of the state of walls, floors and ceilings.
+* there is no noticeable mold in bathroom.. there was a foul odour (sewer) when I came in.. It is less noticeable, now the windows have been open a while. I didn't notice the smell when I came in the first time.
 
-**Last Updated:** [Insert Date]
+**Last Updated:** 22/07/2026
 
