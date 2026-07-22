@@ -92,7 +92,7 @@ This repository is a **historical archive**, not a maintenance request system. F
 
 | Preview | Date | Filename | Description |
 | :--- | :--- | :--- | :--- |
-| <a href="https://beauterre.github.io/Niinitie46C-26/https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081834.jpg"><img src="https://beauterre.github.io/Niinitie46C-26/https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081834.jpg` | kitchen window |
+| <a href="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081834.jpg"><img src="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081834.jpg` | kitchen window |
 | <a href="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081841.jpg"><img src="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081841.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081841.jpg` | bedroom window |
 | <a href="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081857.jpg"><img src="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081857.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081857.jpg` | living room window (missing filter) |
 | <a href="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081902.jpg"><img src="https://beauterre.github.io/Niinitie46C-26/photos/IMG20260722081902.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081902.jpg` | living room lamp hook, no lamp |
