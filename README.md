@@ -145,12 +145,16 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722093122.jpg"><img src="photos/IMG20260722093122.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093122.jpg` | holes kitchen/living doorframe |
 | <a href="photos/IMG20260722093126.jpg"><img src="photos/IMG20260722093126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093126.jpg` | holes kitchen/living doorframe |
 | <a href="photos/IMG20260722093136.jpg"><img src="photos/IMG20260722093136.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093136.jpg` | missing door kitchen/living |
+| <a href="photos/IMG20260722101116.jpg"><img src="photos/IMG20260722101116.jpg" width="100"></a> | 2026-07-22 | `IMG20260722101116.jpg
+` | hook sticker hallway |
+| <a href="photos/IMG20260722101418.jpg"><img src="photos/IMG20260722101418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722101418.jpg
+` | toilet right after flush |
 
 
 ---
 
 ## 📝 Additional Notes
-* Scratches on the floor or marks on the walls are everywhere, I cannot photograph them all, the photos are also a general idea of the state of walls, floors and ceilings.
+* I cannot photograph every small defect, the photos are also a general idea of the state of walls, floors and ceilings, paint job, rust.
 * there is no noticeable mold in bathroom.. there was a foul odour (sewer) when I came in.. It is less noticeable, now the windows have been open a while. I didn't notice the smell when I came in the first time.
 
 **Last Updated:** 22/07/2026
