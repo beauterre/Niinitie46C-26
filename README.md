@@ -109,43 +109,42 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722082403.jpg"><img src="photos/IMG20260722082403.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082403.jpg` | stains on closets bedroom |
 | <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` |  stains on closets bedroom  |
 | <a href="photos/IMG20260722082435.jpg"><img src="photos/IMG20260722082435.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082435.jpg` | broken corner kitchen |
-| <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | fuzzy, retake |
-| <a href="photos/IMG20260722092339.jpg"><img src="photos/IMG20260722092339.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092339.jpg` | [Add description] |
-| <a href="photos/IMG20260722092444.jpg"><img src="photos/IMG20260722092444.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092444.jpg` | [Add description] |
-| <a href="photos/IMG20260722092454.jpg"><img src="photos/IMG20260722092454.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092454.jpg` | [Add description] |
-| <a href="photos/IMG20260722092457.jpg"><img src="photos/IMG20260722092457.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092457.jpg` | [Add description] |
-| <a href="photos/IMG20260722092513.jpg"><img src="photos/IMG20260722092513.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092513.jpg` | [Add description] |
-| <a href="photos/IMG20260722092522.jpg"><img src="photos/IMG20260722092522.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092522.jpg` | [Add description] |
-| <a href="photos/IMG20260722092527.jpg"><img src="photos/IMG20260722092527.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092527.jpg` | [Add description] |
-| <a href="photos/IMG20260722092543.jpg"><img src="photos/IMG20260722092543.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092543.jpg` | [Add description] |
-| <a href="photos/IMG20260722092552.jpg"><img src="photos/IMG20260722092552.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092552.jpg` | [Add description] |
-| <a href="photos/IMG20260722092610.jpg"><img src="photos/IMG20260722092610.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092610.jpg` | [Add description] |
-| <a href="photos/IMG20260722092621.jpg"><img src="photos/IMG20260722092621.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092621.jpg` | [Add description] |
-| <a href="photos/IMG20260722092639.jpg"><img src="photos/IMG20260722092639.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092639.jpg` | [Add description] |
-| <a href="photos/IMG20260722092648.jpg"><img src="photos/IMG20260722092648.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092648.jpg` | [Add description] |
-| <a href="photos/IMG20260722092656.jpg"><img src="photos/IMG20260722092656.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092656.jpg` | [Add description] |
-| <a href="photos/IMG20260722092703.jpg"><img src="photos/IMG20260722092703.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092703.jpg` | [Add description] |
-| <a href="photos/IMG20260722092710.jpg"><img src="photos/IMG20260722092710.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092710.jpg` | [Add description] |
-| <a href="photos/IMG20260722092717.jpg"><img src="photos/IMG20260722092717.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092717.jpg` | [Add description] |
-| <a href="photos/IMG20260722092744.jpg"><img src="photos/IMG20260722092744.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092744.jpg` | [Add description] |
-| <a href="photos/IMG20260722092800.jpg"><img src="photos/IMG20260722092800.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092800.jpg` | [Add description] |
-| <a href="photos/IMG20260722092810.jpg"><img src="photos/IMG20260722092810.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092810.jpg` | [Add description] |
-| <a href="photos/IMG20260722092814.jpg"><img src="photos/IMG20260722092814.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092814.jpg` | [Add description] |
-| <a href="photos/IMG20260722092824.jpg"><img src="photos/IMG20260722092824.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092824.jpg` | [Add description] |
-| <a href="photos/IMG20260722092834.jpg"><img src="photos/IMG20260722092834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092834.jpg` | [Add description] |
-| <a href="photos/IMG20260722092850.jpg"><img src="photos/IMG20260722092850.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092850.jpg` | [Add description] |
-| <a href="photos/IMG20260722092855.jpg"><img src="photos/IMG20260722092855.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092855.jpg` | [Add description] |
-| <a href="photos/IMG20260722092901.jpg"><img src="photos/IMG20260722092901.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092901.jpg` | [Add description] |
-| <a href="photos/IMG20260722092958.jpg"><img src="photos/IMG20260722092958.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092958.jpg` | [Add description] |
-| <a href="photos/IMG20260722093012.jpg"><img src="photos/IMG20260722093012.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093012.jpg` | [Add description] |
-| <a href="photos/IMG20260722093032.jpg"><img src="photos/IMG20260722093032.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093032.jpg` | [Add description] |
-| <a href="photos/IMG20260722093038.jpg"><img src="photos/IMG20260722093038.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093038.jpg` | [Add description] |
-| <a href="photos/IMG20260722093046.jpg"><img src="photos/IMG20260722093046.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093046.jpg` | [Add description] |
-| <a href="photos/IMG20260722093057.jpg"><img src="photos/IMG20260722093057.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093057.jpg` | [Add description] |
-| <a href="photos/IMG20260722093113.jpg"><img src="photos/IMG20260722093113.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093113.jpg` | [Add description] |
-| <a href="photos/IMG20260722093122.jpg"><img src="photos/IMG20260722093122.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093122.jpg` | [Add description] |
-| <a href="photos/IMG20260722093126.jpg"><img src="photos/IMG20260722093126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093126.jpg` | [Add description] |
-| <a href="photos/IMG20260722093136.jpg"><img src="photos/IMG20260722093136.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093136.jpg` | [Add description] |
+| <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | broken corner kitchen |
+| <a href="photos/IMG20260722092339.jpg"><img src="photos/IMG20260722092339.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092339.jpg` | kitchen floor and cabinets |
+| <a href="photos/IMG20260722092444.jpg"><img src="photos/IMG20260722092444.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092444.jpg` | hallway closet |
+| <a href="photos/IMG20260722092454.jpg"><img src="photos/IMG20260722092454.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092454.jpg` | hallway floor |
+| <a href="photos/IMG20260722092457.jpg"><img src="photos/IMG20260722092457.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092457.jpg` | hallway floor |
+| <a href="photos/IMG20260722092513.jpg"><img src="photos/IMG20260722092513.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092513.jpg` | bedroom, behind door, black thing is my synth resting against bedroom cabinets. |
+| <a href="photos/IMG20260722092522.jpg"><img src="photos/IMG20260722092522.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092522.jpg` | bedroom floor scuffs |
+| <a href="photos/IMG20260722092527.jpg"><img src="photos/IMG20260722092527.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092527.jpg` | bedroom floor scuffs |
+| <a href="photos/IMG20260722092543.jpg"><img src="photos/IMG20260722092543.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092543.jpg` | bedroom wall behind door to kitchen |
+| <a href="photos/IMG20260722092552.jpg"><img src="photos/IMG20260722092552.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092552.jpg` | nail in bedroom window pane |
+| <a href="photos/IMG20260722092610.jpg"><img src="photos/IMG20260722092610.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092610.jpg` | kitchen floor small hole |
+| <a href="photos/IMG20260722092621.jpg"><img src="photos/IMG20260722092621.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092621.jpg` | kitchen doorway to living room |
+| <a href="photos/IMG20260722092639.jpg"><img src="photos/IMG20260722092639.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092639.jpg` | window paint gone living room |
+| <a href="photos/IMG20260722092648.jpg"><img src="photos/IMG20260722092648.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092648.jpg` | window living room |
+| <a href="photos/IMG20260722092656.jpg"><img src="photos/IMG20260722092656.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092656.jpg` | window living room |
+| <a href="photos/IMG20260722092703.jpg"><img src="photos/IMG20260722092703.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092703.jpg` | wall next to window living room |
+| <a href="photos/IMG20260722092710.jpg"><img src="photos/IMG20260722092710.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092710.jpg` | living room ceiling |
+| <a href="photos/IMG20260722092717.jpg"><img src="photos/IMG20260722092717.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092717.jpg` | living room ceiling |
+| <a href="photos/IMG20260722092744.jpg"><img src="photos/IMG20260722092744.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092744.jpg` | living room door to hall |
+| <a href="photos/IMG20260722092800.jpg"><img src="photos/IMG20260722092800.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092800.jpg` | hallway outside door |
+| <a href="photos/IMG20260722092810.jpg"><img src="photos/IMG20260722092810.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092810.jpg` | hallway outside door |
+| <a href="photos/IMG20260722092814.jpg"><img src="photos/IMG20260722092814.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092814.jpg` | hallway outside door |
+| <a href="photos/IMG20260722092824.jpg"><img src="photos/IMG20260722092824.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092824.jpg` | hallway outside door |
+| <a href="photos/IMG20260722092834.jpg"><img src="photos/IMG20260722092834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092834.jpg` | inner doorframe hallway |
+| <a href="photos/IMG20260722092855.jpg"><img src="photos/IMG20260722092855.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092855.jpg` | stains outer door] |
+| <a href="photos/IMG20260722092901.jpg"><img src="photos/IMG20260722092901.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092901.jpg` | scuffs outer door |
+| <a href="photos/IMG20260722092958.jpg"><img src="photos/IMG20260722092958.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092958.jpg` | door to bedroom/hall |
+| <a href="photos/IMG20260722093012.jpg"><img src="photos/IMG20260722093012.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093012.jpg` | door bedroom / kitchen |
+| <a href="photos/IMG20260722093032.jpg"><img src="photos/IMG20260722093032.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093032.jpg` | kitchen wall next to window |
+| <a href="photos/IMG20260722093038.jpg"><img src="photos/IMG20260722093038.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093038.jpg` | kitchen window |
+| <a href="photos/IMG20260722093046.jpg"><img src="photos/IMG20260722093046.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093046.jpg` | kitchen window paint |
+| <a href="photos/IMG20260722093057.jpg"><img src="photos/IMG20260722093057.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093057.jpg` | kitchen fridge closet |
+| <a href="photos/IMG20260722093113.jpg"><img src="photos/IMG20260722093113.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093113.jpg` | kitchen closet next to sink (stain) |
+| <a href="photos/IMG20260722093122.jpg"><img src="photos/IMG20260722093122.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093122.jpg` | holes kitchen/living doorframe |
+| <a href="photos/IMG20260722093126.jpg"><img src="photos/IMG20260722093126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093126.jpg` | holes kitchen/living doorframe |
+| <a href="photos/IMG20260722093136.jpg"><img src="photos/IMG20260722093136.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093136.jpg` | missing door kitchen/living |
 
 
 ---
