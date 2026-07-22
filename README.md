@@ -145,10 +145,8 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722093122.jpg"><img src="photos/IMG20260722093122.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093122.jpg` | holes kitchen/living doorframe |
 | <a href="photos/IMG20260722093126.jpg"><img src="photos/IMG20260722093126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093126.jpg` | holes kitchen/living doorframe |
 | <a href="photos/IMG20260722093136.jpg"><img src="photos/IMG20260722093136.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093136.jpg` | missing door kitchen/living |
-| <a href="photos/IMG20260722101116.jpg"><img src="photos/IMG20260722101116.jpg" width="100"></a> | 2026-07-22 | `IMG20260722101116.jpg
-` | hook sticker hallway |
-| <a href="photos/IMG20260722101418.jpg"><img src="photos/IMG20260722101418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722101418.jpg
-` | toilet right after flush |
+| <a href="photos/IMG20260722101116.jpg"><img src="photos/IMG20260722101116.jpg" width="100"></a> | 2026-07-22 | `IMG20260722101116.jpg` | hook sticker hallway |
+| <a href="photos/IMG20260722101418.jpg"><img src="photos/IMG20260722101418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722101418.jpg` | toilet right after flush |
 
 
 ---
