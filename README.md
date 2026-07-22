@@ -6,8 +6,9 @@
 
 ( created using: https://markdowntoword.io/tools/markdown-to-pdf )
 
-📄 **CONTRACT:** [https://beauterre.github.io/Niinitie46C-26/contract.pdf](https://beauterre.github.io/Niinitie46C-26/contract.pdf)
+📄 **draft:** [https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-17Jul26.pdf](https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-17Jul26.pdf)
 
+📄 **contract:** [https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-19Jul26.pdf](https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-19Jul26.pdf)
 
 ## ⚖️ Legal Framework
 This report is maintained in accordance with the **Finnish Law of Accommodation (481/95)**. 
