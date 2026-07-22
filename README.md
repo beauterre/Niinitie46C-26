@@ -72,17 +72,8 @@ This repository is a **historical archive**, not a maintenance request system. F
 
 ---
 
-## 📸 Photo Evidence
-*All photos are timestamped and stored in the `/photos` directory of this repository.*
-
-Since I don't know exactly what is in each photo, I have left the **Description** column as `[Add description]` for you to fill in. 
-
-To make the images **small thumbnails** that link to the **full-size image**, I used the HTML `<img>` tag with a set width. This is the only way to control image size in GitHub Markdown.
-
-I have also parsed the dates from your filenames (all are 2026-07-22).
-
-```markdown
 ## 📸 Photos
+*All photos are timestamped and stored in the `/photos` directory of this repository.*
 
 | Preview | Date | Filename | Description |
 | :--- | :--- | :--- | :--- |
@@ -121,7 +112,7 @@ I have also parsed the dates from your filenames (all are 2026-07-22).
 | <a href="photos/IMG20260722082445.jpg"><img src="photos/IMG20260722082445.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082445.jpg` | [Add description] |
 | <a href="photos/IMG20260722082450.jpg"><img src="photos/IMG20260722082450.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082450.jpg` | [Add description] |
 | <a href="photos/IMG20260722082453.jpg"><img src="photos/IMG20260722082453.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082453.jpg` | [Add description] |
-```
+
 ---
 
 ## 📝 Additional Notes
