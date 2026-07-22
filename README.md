@@ -6,17 +6,11 @@
 
 ( created using: https://markdowntoword.io/tools/markdown-to-pdf )
 
+## ⚖️ Documents
+
 📄 **draft:** [https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-17Jul26.pdf](https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-17Jul26.pdf)
 
 📄 **contract:** [https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-19Jul26.pdf](https://beauterre.github.io/Niinitie46C-26/NLA-NT46C26-JensHjalmarSnoep-RentalAgreement-19Jul26.pdf)
-
-## ⚖️ Legal Framework
-This report is maintained in accordance with the **Finnish Law of Accommodation (481/95)**. 
-
-According to the law, the tenant is responsible for the care of the apartment. By documenting the pre-existing condition and defects at the start of the lease, this record serves as evidence to distinguish between **pre-existing defects** and **damage caused by the tenant** during the tenancy, ensuring a fair assessment of the security deposit upon move-out.
-
-**Move-in Date:** 21-07-2026
-**Tenant:** Jens Hjalmar Snoep
 
 ## 📌 Layout
 ```text
@@ -32,14 +26,40 @@ According to the law, the tenant is responsible for the care of the apartment. B
 |____________________|_________/________|___________________|
 ```
 
-## 📌 Overview
-This document serves as a formal record of the condition of the apartment at the start of the lease. The dates of issues added to the document are automatically recorded in GitHub history. The purpose of this list is to document pre-existing damages and defects to ensure they are not attributed to the tenant upon move-out.
+## ⚖️ Legal Framework
+This report is maintained in accordance with the **Finnish Law of Accommodation (481/95)**. 
 
-**Note to Landlord:** These items are reported for documentation purposes. Unless otherwise stated, the tenant is comfortable with the current state and is not requesting immediate repair.
+According to the law, the tenant is responsible for the care of the apartment. By documenting the pre-existing condition and defects at the start of the lease, this record serves as evidence to distinguish between **pre-existing defects** and **damage caused by the tenant** during the tenancy, ensuring a fair assessment of the security deposit upon move-out.
+
+**Evidentiary Standards for issues:**
+To ensure the authenticity of this report, all documentation relies on two independent timestamping methods:
+1. **EXIF Metadata:** All photographs contain original embedded EXIF data (date/time/location), providing an immutable record of when the image was captured.
+2. **Version Control:** This repository uses GitHub's Git history, which provides a cryptographically signed timestamp of when each entry and photo was committed to the record.
+
+
+**Move-in Date:** 21-07-2026
+**Tenant:** Jens Hjalmar Snoep
+
+## 📌 Overview
+This document serves as a formal, ongoing record of the condition of the apartment. It is designed to track the state of the premises over the duration of the lease to ensure a fair and transparent move-out process.
+
+**Verification:** To ensure the integrity of the timestamps, all entries and modifications are tracked via GitHub's version control (Git commit history), providing an immutable record of when each issue was first identified.
+
+**Note to Landlord:** The items listed here are documented for record-keeping purposes. Unless explicitly marked as "Action Required," the tenant is comfortable with the current state and is not requesting immediate repair.
 
 ---
 
-## 🛠 Current Defect Log
+## 📢 Communication Workflow
+This repository is a **historical archive**, not a maintenance request system. For active issues requiring attention, the following escalation path is used:
+
+1. **Initial Report:** WhatsApp message to the *Talomies* (Building Manager), .
+2. **Follow-up:** WhatsApp message to the Landlord (if unresolved).
+3. **Formal Notice:** Email to the Landlord (for documentation and legal requirements).
+4. **Archiving:** Once a report is made via the above channels, it is logged here in this repository for future reference.
+
+---
+
+## 🛠 Defect Log
 
 | Item | Location | Date Found | Description of Issue | Photo Reference | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
