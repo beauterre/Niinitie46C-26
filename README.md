@@ -26,6 +26,15 @@
 |____________________|_________/________|___________________|
 ```
 
+## 📹 Video (youtube)
+| Type | Description | Link | Timestamp |
+| :--- | :--- | :--- | :--- |
+| **Short** | Quick Overview | [View Video ↗️](https://youtube.com/shorts/_RuoUyLk83Y) | 2026-07-22 |
+| **Short** | Condition Highlights | [View Video ↗️](https://youtube.com/shorts/n4MwNG152Kg) | 2026-07-22 |
+| **Full** | Primary Walkthrough | [View Video ↗️](https://youtu.be/3y-0ZBOmEpw) | 2026-07-22 |
+| **Full** | Secondary Inspection | [View Video ↗️](https://youtu.be/LAy4af7nT6A) | 2026-07-22 |
+| **Full** | Supplemental Tour | [View Video ↗️](https://youtu.be/pUSQOhtU87s) | 2026-07-22 |
+
 ## ⚖️ Legal Framework
 This report is maintained in accordance with the **Finnish Law of Accommodation (481/95)**. 
 
