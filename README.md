@@ -1,4 +1,8 @@
 # Apartment Condition Report: Niinitie 46 C 26
+
+online: https://beauterre.github.io/Niinitie46C-26/
+pdf---: https://beauterre.github.io/Niinitie46C-26/auto.pdf
+
 **Move-in Date:** 21-07-2026
 **Tenant:** Jens Hjalmar Snoep
 
