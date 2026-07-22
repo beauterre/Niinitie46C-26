@@ -2,7 +2,7 @@
 
 🌐 **Online:** [https://beauterre.github.io/Niinitie46C-26/](https://beauterre.github.io/Niinitie46C-26/)
 
-📄 **PDF:** [https://beauterre.github.io/Niinitie46C-26/auto.pdf](https://beauterre.github.io/Niinitie46C-26/auto.pdf)
+📄 **PDF:** [https://beauterre.github.io/Niinitie46C-26/auto.pdf](https://beauterre.github.io/Niinitie46C-26/converted_document.pdf)
 
 ( created using: https://markdowntoword.io/tools/markdown-to-pdf )
 
