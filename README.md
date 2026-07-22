@@ -74,16 +74,16 @@ This repository is a **historical archive**, not a maintenance request system. F
 
 ---
 
-## 🛠 Defect Log
+## 🛠 Major Defect Log
 
-| Item | Location | Date Found | Description of Issue | Photo Reference | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Fridge** | Kitchen | 2026-07-21 | [Door handle loose / Not cooling properly] | | Documented |
-| **Window Filters** | kitchen, living room, bedroom | 2026-07-21 | Mosquito filters are torn/missing |  | Documented |
-| **Ceiling Lamps** | kitchen, living room, bedroom, hall, toilet  | 2026-07-21 | Non-functional / no fixture / no bulb |  | Documented |
-| **Kitchen Lamp** | Kitchen | 2026-07-21 | Built-in lamp above stove not working (flickers on/off) |  | Documented |
-| **Bathroom Sink** | Bathroom | 2026-07-21 | Sink is coming off wall, hanging crooked |  | Documented |
-| **Bathroom Shelf** | Bathroom | 2026-07-21 | Toothpaste/accessory shelf is crooked |  | Documented |
+| Item | Location | Date Found | Description of Issue |
+| :--- | :--- | :--- | :--- | 
+| **Fridge** | Kitchen | 2026-07-21 | [Door handle loose / Not cooling properly] |
+| **Window Filters** | kitchen, living room, bedroom | 2026-07-21 | Mosquito filters are torn/missing |
+| **Ceiling Lamps** | kitchen, living room, bedroom, hall, toilet  | 2026-07-21 | Non-functional / no fixture / no bulb |
+| **Kitchen Lamp** | Kitchen | 2026-07-21 | Built-in lamp above stove not working (flickers on/off) |
+| **Bathroom Sink** | Bathroom | 2026-07-21 | Sink is coming off wall, hanging crooked |
+| **Bathroom Shelf** | Bathroom | 2026-07-21 | Toothpaste/accessory shelf is crooked |
 
 ---
 
