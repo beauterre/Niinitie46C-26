@@ -64,12 +64,12 @@ This repository is a **historical archive**, not a maintenance request system. F
 
 | Item | Location | Date Found | Description of Issue | Photo Reference | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Fridge** | Kitchen | 2026-07-21 | [Door handle loose / Not cooling properly] | `photos/fridge.jpg  following` | Documented |
-| **Window Filters** | kitchen, living room, bedroom | 2026-07-21 | Mosquito filters are torn/missing | `photos/windows.jpg  following` | Documented |
-| **Ceiling Lamps** | kitchen, living room, bedroom, hall, toilet  | 2026-07-21 | Non-functional / no fixture / no bulb | `photos/lamps_ceiling following` | Documented |
-| **Kitchen Lamp** | Kitchen | 2026-07-21 | Built-in lamp above stove not working (flickers on/off) | `photos/lamp_kitchen.jpg` | Documented |
-| **Bathroom Sink** | Bathroom | 2026-07-21 | Sink is coming off wall, hanging crooked | `photos/sink.jpg` | Documented |
-| **Bathroom Shelf** | Bathroom | 2026-07-21 | Toothpaste/accessory shelf is crooked | `photos/shelf.jpg` | Documented |
+| **Fridge** | Kitchen | 2026-07-21 | [Door handle loose / Not cooling properly] | | Documented |
+| **Window Filters** | kitchen, living room, bedroom | 2026-07-21 | Mosquito filters are torn/missing |  | Documented |
+| **Ceiling Lamps** | kitchen, living room, bedroom, hall, toilet  | 2026-07-21 | Non-functional / no fixture / no bulb |  | Documented |
+| **Kitchen Lamp** | Kitchen | 2026-07-21 | Built-in lamp above stove not working (flickers on/off) |  | Documented |
+| **Bathroom Sink** | Bathroom | 2026-07-21 | Sink is coming off wall, hanging crooked |  | Documented |
+| **Bathroom Shelf** | Bathroom | 2026-07-21 | Toothpaste/accessory shelf is crooked |  | Documented |
 
 ---
 
@@ -110,6 +110,43 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` |  stains on closets bedroom  |
 | <a href="photos/IMG20260722082435.jpg"><img src="photos/IMG20260722082435.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082435.jpg` | broken corner kitchen |
 | <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | fuzzy, retake |
+| <a href="photos/IMG20260722092339.jpg"><img src="photos/IMG20260722092339.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092339.jpg` | [Add description] |
+| <a href="photos/IMG20260722092444.jpg"><img src="photos/IMG20260722092444.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092444.jpg` | [Add description] |
+| <a href="photos/IMG20260722092454.jpg"><img src="photos/IMG20260722092454.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092454.jpg` | [Add description] |
+| <a href="photos/IMG20260722092457.jpg"><img src="photos/IMG20260722092457.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092457.jpg` | [Add description] |
+| <a href="photos/IMG20260722092513.jpg"><img src="photos/IMG20260722092513.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092513.jpg` | [Add description] |
+| <a href="photos/IMG20260722092522.jpg"><img src="photos/IMG20260722092522.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092522.jpg` | [Add description] |
+| <a href="photos/IMG20260722092527.jpg"><img src="photos/IMG20260722092527.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092527.jpg` | [Add description] |
+| <a href="photos/IMG20260722092543.jpg"><img src="photos/IMG20260722092543.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092543.jpg` | [Add description] |
+| <a href="photos/IMG20260722092552.jpg"><img src="photos/IMG20260722092552.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092552.jpg` | [Add description] |
+| <a href="photos/IMG20260722092610.jpg"><img src="photos/IMG20260722092610.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092610.jpg` | [Add description] |
+| <a href="photos/IMG20260722092621.jpg"><img src="photos/IMG20260722092621.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092621.jpg` | [Add description] |
+| <a href="photos/IMG20260722092639.jpg"><img src="photos/IMG20260722092639.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092639.jpg` | [Add description] |
+| <a href="photos/IMG20260722092648.jpg"><img src="photos/IMG20260722092648.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092648.jpg` | [Add description] |
+| <a href="photos/IMG20260722092656.jpg"><img src="photos/IMG20260722092656.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092656.jpg` | [Add description] |
+| <a href="photos/IMG20260722092703.jpg"><img src="photos/IMG20260722092703.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092703.jpg` | [Add description] |
+| <a href="photos/IMG20260722092710.jpg"><img src="photos/IMG20260722092710.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092710.jpg` | [Add description] |
+| <a href="photos/IMG20260722092717.jpg"><img src="photos/IMG20260722092717.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092717.jpg` | [Add description] |
+| <a href="photos/IMG20260722092744.jpg"><img src="photos/IMG20260722092744.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092744.jpg` | [Add description] |
+| <a href="photos/IMG20260722092800.jpg"><img src="photos/IMG20260722092800.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092800.jpg` | [Add description] |
+| <a href="photos/IMG20260722092810.jpg"><img src="photos/IMG20260722092810.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092810.jpg` | [Add description] |
+| <a href="photos/IMG20260722092814.jpg"><img src="photos/IMG20260722092814.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092814.jpg` | [Add description] |
+| <a href="photos/IMG20260722092824.jpg"><img src="photos/IMG20260722092824.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092824.jpg` | [Add description] |
+| <a href="photos/IMG20260722092834.jpg"><img src="photos/IMG20260722092834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092834.jpg` | [Add description] |
+| <a href="photos/IMG20260722092850.jpg"><img src="photos/IMG20260722092850.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092850.jpg` | [Add description] |
+| <a href="photos/IMG20260722092855.jpg"><img src="photos/IMG20260722092855.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092855.jpg` | [Add description] |
+| <a href="photos/IMG20260722092901.jpg"><img src="photos/IMG20260722092901.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092901.jpg` | [Add description] |
+| <a href="photos/IMG20260722092958.jpg"><img src="photos/IMG20260722092958.jpg" width="100"></a> | 2026-07-22 | `IMG20260722092958.jpg` | [Add description] |
+| <a href="photos/IMG20260722093012.jpg"><img src="photos/IMG20260722093012.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093012.jpg` | [Add description] |
+| <a href="photos/IMG20260722093032.jpg"><img src="photos/IMG20260722093032.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093032.jpg` | [Add description] |
+| <a href="photos/IMG20260722093038.jpg"><img src="photos/IMG20260722093038.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093038.jpg` | [Add description] |
+| <a href="photos/IMG20260722093046.jpg"><img src="photos/IMG20260722093046.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093046.jpg` | [Add description] |
+| <a href="photos/IMG20260722093057.jpg"><img src="photos/IMG20260722093057.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093057.jpg` | [Add description] |
+| <a href="photos/IMG20260722093113.jpg"><img src="photos/IMG20260722093113.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093113.jpg` | [Add description] |
+| <a href="photos/IMG20260722093122.jpg"><img src="photos/IMG20260722093122.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093122.jpg` | [Add description] |
+| <a href="photos/IMG20260722093126.jpg"><img src="photos/IMG20260722093126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093126.jpg` | [Add description] |
+| <a href="photos/IMG20260722093136.jpg"><img src="photos/IMG20260722093136.jpg" width="100"></a> | 2026-07-22 | `IMG20260722093136.jpg` | [Add description] |
+
 
 ---
 
