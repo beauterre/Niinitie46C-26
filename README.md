@@ -78,23 +78,23 @@ This repository is a **historical archive**, not a maintenance request system. F
 
 | Preview | Date | Filename | Description |
 | :--- | :--- | :--- | :--- |
-| <a href="photos/IMG20260722081834.jpg"><img src="photos/IMG20260722081834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081834.jpg` | [Add description] |
-| <a href="photos/IMG20260722081841.jpg"><img src="photos/IMG20260722081841.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081841.jpg` | [Add description] |
-| <a href="photos/IMG20260722081857.jpg"><img src="photos/IMG20260722081857.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081857.jpg` | [Add description] |
-| <a href="photos/IMG20260722081902.jpg"><img src="photos/IMG20260722081902.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081902.jpg` | [Add description] |
-| <a href="photos/IMG20260722081910.jpg"><img src="photos/IMG20260722081910.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081910.jpg` | [Add description] |
-| <a href="photos/IMG20260722081931.jpg"><img src="photos/IMG20260722081931.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081931.jpg` | [Add description] |
-| <a href="photos/IMG20260722081949.jpg"><img src="photos/IMG20260722081949.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081949.jpg` | [Add description] |
-| <a href="photos/IMG20260722081957.jpg"><img src="photos/IMG20260722081957.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081957.jpg` | [Add description] |
-| <a href="photos/IMG20260722082014.jpg"><img src="photos/IMG20260722082014.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082014.jpg` | [Add description] |
-| <a href="photos/IMG20260722082055.jpg"><img src="photos/IMG20260722082055.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082055.jpg` | [Add description] |
-| <a href="photos/IMG20260722082126.jpg"><img src="photos/IMG20260722082126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082126.jpg` | [Add description] |
-| <a href="photos/IMG20260722082131.jpg"><img src="photos/IMG20260722082131.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082131.jpg` | [Add description] |
-| <a href="photos/IMG20260722082143.jpg"><img src="photos/IMG20260722082143.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082143.jpg` | [Add description] |
-| <a href="photos/IMG20260722082153.jpg"><img src="photos/IMG20260722082153.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082153.jpg` | [Add description] |
-| <a href="photos/IMG20260722082155.jpg"><img src="photos/IMG20260722082155.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082155.jpg` | [Add description] |
-| <a href="photos/IMG20260722082215.jpg"><img src="photos/IMG20260722082215.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082215.jpg` | [Add description] |
-| <a href="photos/IMG20260722082224.jpg"><img src="photos/IMG20260722082224.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082224.jpg` | [Add description] |
+| <a href="photos/IMG20260722081834.jpg"><img src="photos/IMG20260722081834.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081834.jpg` | kitchen window |
+| <a href="photos/IMG20260722081841.jpg"><img src="photos/IMG20260722081841.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081841.jpg` | bedroom window |
+| <a href="photos/IMG20260722081857.jpg"><img src="photos/IMG20260722081857.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081857.jpg` | living room window (missing filter) |
+| <a href="photos/IMG20260722081902.jpg"><img src="photos/IMG20260722081902.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081902.jpg` | living room lamp hook, no lamp |
+| <a href="photos/IMG20260722081910.jpg"><img src="photos/IMG20260722081910.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081910.jpg` | hallway lamp, no bulb (fuzzy, will add better image later) |
+| <a href="photos/IMG20260722081931.jpg"><img src="photos/IMG20260722081931.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081931.jpg` | many stains on ceiling |
+| <a href="photos/IMG20260722081949.jpg"><img src="photos/IMG20260722081949.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081949.jpg` | fridge, power light on, cooling and warning light not, fridge is room temperature |
+| <a href="photos/IMG20260722081957.jpg"><img src="photos/IMG20260722081957.jpg" width="100"></a> | 2026-07-22 | `IMG20260722081957.jpg` | fridge door handle taped on |
+| <a href="photos/IMG20260722082014.jpg"><img src="photos/IMG20260722082014.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082014.jpg` | kitchen light above stove flickering |
+| <a href="photos/IMG20260722082055.jpg"><img src="photos/IMG20260722082055.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082055.jpg` | No thermostat found in appartment, radiator thermostat was on full (6), yet normal temperature. (Maybe not a defect, it is summer?) |
+| <a href="photos/IMG20260722082126.jpg"><img src="photos/IMG20260722082126.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082126.jpg` | sink in bathroom loose and crooked, kit almost loose. |
+| <a href="photos/IMG20260722082131.jpg"><img src="photos/IMG20260722082131.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082131.jpg` | toothbrush ledge too crooked and loose to put toothbrush on (rolls off) |
+| <a href="photos/IMG20260722082143.jpg"><img src="photos/IMG20260722082143.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082143.jpg` | air freshner (empty) glued to bathroom tiles |
+| <a href="photos/IMG20260722082153.jpg"><img src="photos/IMG20260722082153.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082153.jpg` | screw in bathroom tiles |
+| <a href="photos/IMG20260722082155.jpg"><img src="photos/IMG20260722082155.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082155.jpg` | holes in bathroom tiles |
+| <a href="photos/IMG20260722082215.jpg"><img src="photos/IMG20260722082215.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082215.jpg` | screw bedroom wall |
+| <a href="photos/IMG20260722082224.jpg"><img src="photos/IMG20260722082224.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082224.jpg` | two screwholes bedroom wall |
 | <a href="photos/IMG20260722082229.jpg"><img src="photos/IMG20260722082229.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082229.jpg` | [Add description] |
 | <a href="photos/IMG20260722082241.jpg"><img src="photos/IMG20260722082241.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082241.jpg` | [Add description] |
 | <a href="photos/IMG20260722082247.jpg"><img src="photos/IMG20260722082247.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082247.jpg` | [Add description] |
