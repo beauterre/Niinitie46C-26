@@ -52,9 +52,10 @@ This document serves as a formal, ongoing record of the condition of the apartme
 ## 📢 Communication Workflow
 This repository is a **historical archive**, not a maintenance request system. For active issues requiring attention, the following escalation path is used:
 
-1. **Initial Report:** WhatsApp message to the *Talomies* (Building Manager), .
-2. **Follow-up:** WhatsApp message to the Landlord (if unresolved).
-3. **Formal Notice:** Email to the Landlord (for documentation and legal requirements).
+1. **Initial Report:** WhatsApp message to the *Talomies* (Building Manager), Eero Sahakorpi (+358 45 1594421).
+2. **Follow-up:** WhatsApp message to the Landlord (if unresolved), Mauri Fabric(+358 40 5505149).
+3. **Formal Notice:** Email to the Landlord (for documentation and legal requirements). (	Mauri Kangas <mauri.kangas@outlook.com> )
+
 4. **Archiving:** Once a report is made via the above channels, it is logged here in this repository for future reference.
 
 ---
