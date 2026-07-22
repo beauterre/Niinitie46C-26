@@ -40,10 +40,14 @@ This report is maintained in accordance with the **Finnish Law of Accommodation 
 
 According to the law, the tenant is responsible for the care of the apartment. By documenting the pre-existing condition and defects at the start of the lease, this record serves as evidence to distinguish between **pre-existing defects** and **damage caused by the tenant** during the tenancy, ensuring a fair assessment of the security deposit upon move-out.
 
+
 **Evidentiary Standards for issues:**
-To ensure the authenticity of this report, all documentation relies on two independent timestamping methods:
+To ensure the authenticity of this report, all documentation relies on four independent timestamping methods:
 1. **EXIF Metadata:** All photographs contain original embedded EXIF data (date/time/location), providing an immutable record of when the image was captured.
 2. **Version Control:** This repository uses GitHub's Git history, which provides a cryptographically signed timestamp of when each entry and photo was committed to the record.
+3. the filenames contain a timestamp. files are uploaded directly from camera.
+4. videos are too large to commit to github, placed on youtube with unalterable timestamping.
+
 
 
 **Move-in Date:** 21-07-2026
