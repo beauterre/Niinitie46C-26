@@ -166,7 +166,8 @@ This repository is a **historical archive**, not a maintenance request system. F
 ---
 
 ## 📝 Additional Notes
-* I cannot photograph every small defect, the photos are also a general idea of the state of walls, floors and ceilings, paint job, rust.
+* Because there are so many small defects, the photos are also a general idea of the state of walls, floors and ceilings, paint job, rust.
+* for each room a video has been shot and uploaded (unlisted) onto youtube.
 * there is no noticeable mold in bathroom.. there was a foul odour (sewer) when I came in.. It is less noticeable, now the windows have been open a while. I didn't notice the smell when I came in the first time.
 
 **Last Updated:** 22/07/2026
