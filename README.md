@@ -28,13 +28,13 @@
 
 ## 📹 Video (youtube)
 
-| Type | Description | Link | Timestamp |
-| :--- | :--- | :--- | :--- |
-| **Short** | Bathroom | [View Video ↗️](https://youtube.com/shorts/_RuoUyLk83Y) | 2026-07-22 |
-| **Short** | hallway | [View Video ↗️](https://youtube.com/shorts/n4MwNG152Kg) | 2026-07-22 |
-| **Full** | living room | [View Video ↗️](https://youtu.be/3y-0ZBOmEpw) | 2026-07-22 |
-| **Full** | kitchen | [View Video ↗️](https://youtu.be/LAy4af7nT6A) | 2026-07-22 |
-| **Full** | bedroom| [View Video ↗️](https://youtu.be/pUSQOhtU87s) | 2026-07-22 |
+| Room | Link | Timestamp |
+| :--- | :--- | :--- |
+| 🚿 **Bathroom** | [View Video ↗️](https://youtube.com/shorts/_RuoUyLk83Y) | 2026-07-22 |
+| 🚪 **Hallway** | [View Video ↗️](https://youtube.com/shorts/n4MwNG152Kg) | 2026-07-22 |
+| 🛋️ **Living Room** | [View Video ↗️](https://youtu.be/3y-0ZBOmEpw) | 2026-07-22 |
+| 🍳 **Kitchen** | [View Video ↗️](https://youtu.be/LAy4af7nT6A) | 2026-07-22 |
+| 🛌 **Bedroom** | [View Video ↗️](https://youtu.be/pUSQOhtU87s) | 2026-07-22 |
 
 ## ⚖️ Legal Framework
 This report is maintained in accordance with the **Finnish Law of Accommodation (481/95)**. 
