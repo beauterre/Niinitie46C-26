@@ -105,11 +105,11 @@ This repository is a **historical archive**, not a maintenance request system. F
 | <a href="photos/IMG20260722082324.jpg"><img src="photos/IMG20260722082324.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082324.jpg` | stain on floor living room |
 | <a href="photos/IMG20260722082340.jpg"><img src="photos/IMG20260722082340.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082340.jpg` | drag trails floor hallway |
 | <a href="photos/IMG20260722082350.jpg"><img src="photos/IMG20260722082350.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082350.jpg` | fuzzy, will retake |
-| <a href="photos/IMG20260722082352.jpg"><img src="photos/IMG20260722082352.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082352.jpg` | [Add description] |
-| <a href="photos/IMG20260722082403.jpg"><img src="photos/IMG20260722082403.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082403.jpg` | [Add description] |
-| <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` | [Add description] |
-| <a href="photos/IMG20260722082435.jpg"><img src="photos/IMG20260722082435.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082435.jpg` | [Add description] |
-| <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | [Add description] |
+| <a href="photos/IMG20260722082352.jpg"><img src="photos/IMG20260722082352.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082352.jpg` | hallway floor |
+| <a href="photos/IMG20260722082403.jpg"><img src="photos/IMG20260722082403.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082403.jpg` | stains on closets bedroom |
+| <a href="photos/IMG20260722082418.jpg"><img src="photos/IMG20260722082418.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082418.jpg` |  stains on closets bedroom  |
+| <a href="photos/IMG20260722082435.jpg"><img src="photos/IMG20260722082435.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082435.jpg` | broken corner kitchen |
+| <a href="photos/IMG20260722082442.jpg"><img src="photos/IMG20260722082442.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082442.jpg` | fuzzy, retake |
 | <a href="photos/IMG20260722082445.jpg"><img src="photos/IMG20260722082445.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082445.jpg` | [Add description] |
 | <a href="photos/IMG20260722082450.jpg"><img src="photos/IMG20260722082450.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082450.jpg` | [Add description] |
 | <a href="photos/IMG20260722082453.jpg"><img src="photos/IMG20260722082453.jpg" width="100"></a> | 2026-07-22 | `IMG20260722082453.jpg` | [Add description] |
